@@ -1,6 +1,6 @@
 # PySpark-Customer-Churn
 
-Description: Using PySpark to follow an ETL model to process a customer churn dataset. After the data is extracted and cleaned for machine learning, PySpark's MLib was used to train a machine learning model on the data to predict customer churn. The predictions were then loaded into a PosgreSQL database. 
+Description: Using PySpark to follow an ETL model to process a customer churn dataset. After the data is extracted and cleaned for machine learning, PySpark's MLlib was used to train a machine learning model on the data to predict customer churn. The predictions were then loaded into a PosgreSQL database. 
 
 Features: "tenure", "MonthlyCharges", "TotalCharges"
 
